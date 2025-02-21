@@ -213,6 +213,5 @@ If you have any feedback, please reach out to us at visv9199@gmial.com
 
 ## my project preview
 
-![Screenshot 2025-02-21 135401](https://github.com/user-attachments/assets/4a72925c-7974-4db0-a310-3ca276335306)
-
-![Screenshot 2025-02-21 135421](https://github.com/user-attachments/assets/ee4e81bf-a589-44bc-bdb9-437109370d67)
+![Screenshot 2025-02-21 140338](https://github.com/user-attachments/assets/55a44c93-df79-4fb9-a791-1c9eacfda85c)
+![Screenshot 2025-02-21 135401](https://github.com/user-attachments/assets/b044136f-aa18-48db-8194-c57bd3b4ce2e)
